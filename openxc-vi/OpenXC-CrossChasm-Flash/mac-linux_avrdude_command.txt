@@ -1,0 +1,1 @@
+avrdude -U flash:w:<HEX> -c stk500 -p 32MX795F512L -C avrdude.conf -P <id>
