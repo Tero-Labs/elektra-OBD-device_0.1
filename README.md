@@ -42,3 +42,5 @@ Current version: __1.0__
 [Openxc-vi](http://vi.openxcplatform.com/) is an open source can utils by ford motors. Compiled binaries and related flash tools have been added to this repo. 
 
 The precompiled binaries were compiled from [Vehicle Interface Firmware](https://github.com/openxc/vi-firmware) repo.
+
+![open-xc-bt](http://openxcplatform.com/images/c5-ble-pins.jpg)
