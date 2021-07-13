@@ -30,7 +30,7 @@ Project-Elektra
 # Lumo
 Board             |  Enclosure
 :-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/Tero-Labs/project-elektra/main/lumo/photos/render_RTX.png)  |  ![](https://raw.githubusercontent.com/Tero-Labs/project-elektra/main/lumo/photos/render_RTX.png)
+![](https://raw.githubusercontent.com/Tero-Labs/project-elektra/main/lumo/photos/render_RTX.png)  |  ![](https://raw.githubusercontent.com/Tero-Labs/project-elektra/main/lumo/photos/enclosure-rtx.png)
 
 Lumo is our in house CAN-BUS utils board based on the esp32 and MCP2551 CAN controller Interface.
 
