@@ -27,10 +27,15 @@ Project-Elektra
 |   |   compiled binaries
 |   |   vi-firmware
 ```
-## Lumo
+# Lumo
+Board             |  Enclosure
+:-------------------------:|:-------------------------:
+![](https://raw.githubusercontent.com/Tero-Labs/project-elektra/main/lumo/photos/render_RTX.png)  |  ![](https://raw.githubusercontent.com/Tero-Labs/project-elektra/main/lumo/photos/render_RTX.png)
+
 Lumo is our in house CAN-BUS utils board based on the esp32 and MCP2551 CAN controller Interface.
 
 Current version: 1.0
 
-## openxc-vi
+
+# openxc-vi
 Openxc-vi is an open source can utils by ford motors. Compiled binaries and related flash tools have been added to this repo. 
