@@ -1,7 +1,10 @@
 # project-elektra: 
 ![Logo](https://raw.githubusercontent.com/Tero-Labs/project-elektra/main/lumo/photos/logo_48x48.png "Tero Labs")
 
-    Designing Electric Vehicles capable of autonomously participating in a decentralized, sharing economy at a much lower cost than now. 
+```
+Designing Electric Vehicles capable of autonomously participating in a decentralized, sharing economy at a much lower cost than now.
+```
+     
 
 CAN-BUS interface and accompanying app resources for project elektra
 
