@@ -26,7 +26,7 @@ Project-Elektra
 |   |   compiled binaries
 |   |   vi-firmware
 ```
-# Lumo
+# [Lumo](https://github.com/Tero-Labs/project-elektra/tree/main/lumo)
 Board             |  Enclosure
 :-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/Tero-Labs/project-elektra/main/lumo/photos/render_RTX.png)  |  ![](https://raw.githubusercontent.com/Tero-Labs/project-elektra/main/lumo/photos/enclosure-rtx.png)
