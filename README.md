@@ -33,9 +33,12 @@ Board             |  Enclosure
 
 
 Lumo is our in house CAN-BUS utils board based on the esp32 and MCP2551 CAN controller Interface.
-
-Current version: 1.0
+Current version: __1.0__
 
 
 # openxc-vi
-Openxc-vi is an open source can utils by ford motors. Compiled binaries and related flash tools have been added to this repo. 
+![Logo](http://vi.openxcplatform.com/static/images/openxc-logo.png "Open XC")
+
+[Openxc-vi](http://vi.openxcplatform.com/) is an open source can utils by ford motors. Compiled binaries and related flash tools have been added to this repo. 
+
+The precompiled binaries were compiled from [Vehicle Interface Firmware](https://github.com/openxc/vi-firmware) repo.
