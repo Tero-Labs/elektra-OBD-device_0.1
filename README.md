@@ -1,7 +1,7 @@
 # project-elektra: 
 ![Logo](https://raw.githubusercontent.com/Tero-Labs/project-elektra/main/lumo/photos/logo_48x48.png "Tero Labs")
 
-Designing Electric Vehicles capable of autonomously participating in a decentralized, sharing economy at a much lower cost than now.
+> Designing Electric Vehicles capable of autonomously participating in a decentralized, sharing economy at a much lower cost than now.
 
      
 
@@ -27,6 +27,10 @@ Project-Elektra
 |   |   vi-firmware
 ```
 # Lumo
+Board             |  Enclosure
+:-------------------------:|:-------------------------:
+![](https://raw.githubusercontent.com/Tero-Labs/project-elektra/main/lumo/photos/render_RTX.png)  |  ![](https://raw.githubusercontent.com/Tero-Labs/project-elektra/main/lumo/photos/enclosure-rtx.png)
+
 
 Lumo is our in house CAN-BUS utils board based on the esp32 and MCP2551 CAN controller Interface.
 
