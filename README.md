@@ -12,19 +12,19 @@ CAN-BUS interface and accompanying app resources for project elektra
 ```
 Project-Elektra
 |
-|___lumo (v.1.0)
-|   |   Bill of Materials
-|   |   camOutput
-|   |   enclosure
-|   |   photos
+|___lumo (v.1.0)/
+|   |   Bill of Materials/
+|   |   camOutput/
+|   |   enclosure/
+|   |   photos/
 |   |___can bus hat.brd
 |   |___can bus hat.sch
 |   |___eagle.epf
 |
-|___openxc-vi
-|   |   OpenXC-CrossChasm-Flash
-|   |   compiled binaries
-|   |   vi-firmware
+|___openxc-vi/
+|   |   OpenXC-CrossChasm-Flash/
+|   |   compiled binaries/
+|   |   vi-firmware/
 ```
 # [Lumo](https://github.com/Tero-Labs/project-elektra/tree/main/lumo)
 Board             |  Enclosure
@@ -36,7 +36,7 @@ Lumo is our in house CAN-BUS utils board based on the esp32 and MCP2551 CAN cont
 Current version: __1.0__
 
 
-# openxc-vi
+# [openxc-vi tools](https://github.com/Tero-Labs/project-elektra/tree/main/openxc-vi)
 ![Logo](http://vi.openxcplatform.com/static/images/openxc-logo.png "Open XC")
 
 [Openxc-vi](http://vi.openxcplatform.com/) is an open source can utils by ford motors. Compiled binaries and related flash tools have been added to this repo. 
