@@ -1,10 +1,19 @@
-# CAN-BUS-HAT_lumo
-CAN Utils board based on the ESP32 and MCP2551. Can be used standalone or as a raspberry pi hat.
+![Logo](https://raw.githubusercontent.com/Tero-Labs/elektra-OBD-device_0.1/main/photos/logo_48x48.png "Tero Labs")
+
+> Designing Electric Vehicles capable of autonomously participating in a decentralized, sharing economy at a much lower cost than now.   
+
+:warning: :warning: :warning:
+>Deprecation Warning: 
+This repo is no longer maintained. Please have a look at the newer [elektra-OBD-Device_v1.0](https://github.com/Tero-Labs/elektra-OBD-device_v1.0) based on the ESP32.
+
+
+# Elektra-OBD-Device_v0.1
+OBD data monitoring tool based on MCP2551 & MCP2515 for project elektra. The device is designed as a Raspberry Pi hat compatible with Raspberry Pi Zero W.
 
 ## Board 
 Top             |  Bottom
 :-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/Tero-Labs/project-elektra/main/lumo/photos/can%20bus%20hat_top.png)  |  ![](https://raw.githubusercontent.com/Tero-Labs/project-elektra/main/lumo/photos/can%20bus%20hat_bottom.png)
+![](https://raw.githubusercontent.com/Tero-Labs/elektra-OBD-device_0.1/main/photos/can%20bus%20hat_top.png)  |  ![](https://raw.githubusercontent.com/Tero-Labs/elektra-OBD-device_0.1/main/photos/can%20bus%20hat_bottom.png)
 
 Eagle project files  are given. The Cam output files are also present for ordering through PCB fabrication services.
 
@@ -13,7 +22,7 @@ Eagle project files  are given. The Cam output files are also present for orderi
 
 Board             |  Enclosure
 :-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/Tero-Labs/project-elektra/main/lumo/photos/render_RTX.png)  |  ![](https://raw.githubusercontent.com/Tero-Labs/project-elektra/main/lumo/photos/enclosure-rtx.png)
+![](https://raw.githubusercontent.com/Tero-Labs/elektra-OBD-device_0.1/main/photos/render_RTX.png)  |  ![](https://raw.githubusercontent.com/Tero-Labs/elektra-OBD-device_0.1/main/photos/enclosure-rtx.png)
 
 
 ## Enclosure Printing Instructions
